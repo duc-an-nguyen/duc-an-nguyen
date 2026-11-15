@@ -157,15 +157,18 @@ Topics include:
 
 ---
 
+
+
 ## GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duc-an-nguyen&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=duc-an-nguyen&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duc-an-nguyen&layout=compact&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=duc-an-nguyen&layout=compact&hide_border=true)
 
 </div>
+  
 
 ---
 
